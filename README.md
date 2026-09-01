@@ -20,6 +20,7 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 * PHP & databases
 * Vue.js
 * Git & GitHub
+* Testttttt
 
 ## Technologies & Tools
 
