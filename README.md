@@ -31,4 +31,4 @@ Here you'll find some of my projects from my studies and personal work.
 
 ---
 
-✨ Thanks for stopping by!
+Thanks for stopping by!
