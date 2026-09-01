@@ -1,4 +1,4 @@
-# Hi, I'm Mia!
+# Hi, I'm Mia! 💁‍♀️
 
 ### Web Development Student | Multimedia Designer | Frontend & Backend & UX
 
