@@ -1,6 +1,6 @@
 # Hi, I'm Mia 👋
 
-### Web Development Student | Multimedia Designer | Frontend & Backend
+### Web Development Student | Multimedia Designer | Frontend & Backend & UX
 
 I'm currently studying **Web Development as a top-up bachelor's degree**, building on my background in **Multimedia Design**.
 
