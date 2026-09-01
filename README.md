@@ -21,7 +21,7 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 * Vue.js
 * Git & GitHub
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 `HTML` `CSS` `JavaScript` `PHP` `Vue.js` `Firebase` `Git` `GitHub` `WordPress`
 
