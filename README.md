@@ -27,6 +27,11 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 
 `HTML` `CSS` `JavaScript` `PHP` `Vue.js` `Firebase` `Git` `GitHub` `WordPress` `Typescript` `Figma` `VS Code` `and more....`
 
+## Contact Me 📩
+
+**Educational E-mail** miamad01@easv365.dk
+**Private E-mail:** mia.l.madsen@live.dk
+
 ## Projects 📁
 
 Under here you'll find some of my projects pinned from my studies and personal work.
