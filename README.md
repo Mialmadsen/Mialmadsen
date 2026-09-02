@@ -29,7 +29,8 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 
 ## Contact Me 📩
 
-**Educational E-mail** miamad01@easv365.dk
+**Educational E-mail:** miamad01@easv365.dk
+
 **Private E-mail:** mia.l.madsen@live.dk
 
 ## Projects 📁
