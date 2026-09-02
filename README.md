@@ -29,8 +29,6 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 
 ## Projects 📁
 
-Under here you'll find some of my projects from my studies and personal work.
-
----
+Under here you'll find some of my projects pinned from my studies and personal work.
 
 Thanks you for reading! 🙏
