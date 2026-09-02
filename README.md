@@ -4,32 +4,33 @@
 
 I'm currently studying **Web Development as a top-up bachelor's degree**, building on my background in **Multimedia Design**.
 
-## What I'm Working With
+## What I'm Working With 💻
 
 * HTML, CSS & JavaScript
+* Tailwind CSS
 * Vue.js
+* Typescript
 * PHP
 * Firebase
 * Databases
 * UI/UX & Web Design
 * WordPress
 
-## Currently Learning
+## Currently Learning 💡
 
 * Backend development
-* PHP & databases
-* Vue.js
+* PHP & databases (MySQL)
 * Git & GitHub
 * UX on higher level
 
-## Technologies & Tools
+## Technologies & Tools 🔧
 
-`HTML` `CSS` `JavaScript` `PHP` `Vue.js` `Firebase` `Git` `GitHub` `WordPress`
+`HTML` `CSS` `JavaScript` `PHP` `Vue.js` `Firebase` `Git` `GitHub` `WordPress` `Typescript` `Figma` `VS Code` `and more....`
 
-## Projects
+## Projects 📁
 
-Here you'll find some of my projects from my studies and personal work.
+Under here you'll find some of my projects from my studies and personal work.
 
 ---
 
-Thanks for stopping by!
+Thanks you for reading! 🙏
