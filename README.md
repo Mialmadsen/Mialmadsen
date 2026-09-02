@@ -7,6 +7,7 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 ## What I'm Working With 💻
 
 * HTML, CSS & JavaScript
+* Figma
 * Tailwind CSS
 * Vue.js
 * Typescript
@@ -22,6 +23,7 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 * PHP & databases (MySQL)
 * Git & GitHub
 * UX on higher level
+* More Figma
 
 ## Technologies & Tools 🔧
 
