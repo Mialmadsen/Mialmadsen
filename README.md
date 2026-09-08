@@ -16,6 +16,9 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 * Databases
 * UI/UX & Web Design
 * WordPress
+* Content Management Systems
+* Visual Studio Code
+* Github Desktop, Git, Github, CLI
 
 ## Currently Learning 💡
 
@@ -40,3 +43,5 @@ I'm currently studying **Web Development as a top-up bachelor's degree**, buildi
 Under here you'll find some of my projects pinned from my studies and personal work.
 
 Thanks you for reading! 🙏
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Mialmadsen&langs_count=6)
