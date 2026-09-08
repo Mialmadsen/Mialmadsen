@@ -4,7 +4,7 @@
 
 I'm currently studying **Web Development as a top-up bachelor's degree**, building on my background in **Multimedia Design**.
 
-## What I'm Working With 💻
+## What I'm Working With / Have worked with 💻
 
 * HTML, CSS & JavaScript
 * Figma
